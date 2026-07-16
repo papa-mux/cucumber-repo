@@ -1,0 +1,7 @@
+Package: python-textual
+Version: 8.2.8
+Section: main
+Architecture: all
+Maintainer: papa-mux
+Depends: python
+Description: Textual framework for Termux

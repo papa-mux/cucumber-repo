@@ -1,13 +1,13 @@
 Package: abc-pascal-tui
 Version: 2.0.0
-Architecture: all
+Architecture: aarch64
 Maintainer: papa-mux
-Depends: python, python-textual, mono-runtime, git, dotnet-runtime-8.0
-Filename: pool/main/abc-pascal-tui_2.0.0_all.deb
-Size: 30049840
-MD5sum: 1a59e9ad52741f03313b03acd50dc703
-SHA1: 11fe200e095e7891f5c5611f50f27d6068777e57
-SHA256: 12b02079024e1a5d36051a8e8b49a672409bc420c04722129b2966e7e61275e5
+Depends: python, python-textual, mono, dotnet-runtime-8.0
+Filename: pool/main/abc-pascal-tui_2.0.0_aarch64.deb
+Size: 30052224
+MD5sum: 26d9bf5526b01a40bc59e3eda7a434a0
+SHA1: 2b303b436213ea8b042396b31c73b4c9e3d943d0
+SHA256: 99096a9321000e24eb6e81c1ac77cafa1a9807528956e1ca29ebf2dc839eff56
 Section: main
 Description: PascalABC.NET IDE for Termux
 
@@ -26,14 +26,14 @@ Description: Custom power menu widget with MPV and Playerctl integration.
 
 Package: python-textual
 Version: 8.2.8
-Architecture: archh64
+Architecture: all
 Maintainer: papa-mux
 Depends: python
 Filename: pool/main/python-textual_8.2.8_all.deb
-Size: 780
-MD5sum: 9e9c2ee7eb3931105e82ce2a1b6963c8
-SHA1: e778b17fcd180e404b39f8efb781a940ae3c8d20
-SHA256: 68082c5f29536688f71b6d52d364d70fce2ae1221e882560a6d5d15037cb25cb
+Size: 796
+MD5sum: a9178c8f8d34f2fe408cf16359faca66
+SHA1: d7def9b92384423563900bbbef1ae5f5caa85e28
+SHA256: 3a9b9f405079c07badb71334899cccaf2f5b4d15b4c44fd48872e072b318dfa2
 Section: main
 Description: Textual framework for Termux
 

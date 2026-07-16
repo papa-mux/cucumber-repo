@@ -1,0 +1,7 @@
+Package: abc-pascal-tui
+Version: 2.0.0
+Section: main
+Architecture: aarch64
+Maintainer: papa-mux
+Depends: python, python-textual, mono, dotnet-runtime-8.0
+Description: PascalABC.NET IDE for Termux
