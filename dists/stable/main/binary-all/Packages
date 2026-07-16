@@ -5,9 +5,9 @@ Maintainer: papa-mux
 Depends: python, python-textual, mono, dotnet-runtime-8.0
 Filename: pool/main/abc-pascal-tui_2.0.0_aarch64.deb
 Size: 30052224
-MD5sum: 26d9bf5526b01a40bc59e3eda7a434a0
-SHA1: 2b303b436213ea8b042396b31c73b4c9e3d943d0
-SHA256: 99096a9321000e24eb6e81c1ac77cafa1a9807528956e1ca29ebf2dc839eff56
+MD5sum: b5ceb97f17fa8a790a4b1e49837cd5e8
+SHA1: 187ca50844a9f2f8ae26c70f69e547a4663e74b5
+SHA256: 8bae42372810383f33b59b5121760148edd7417539971306463e99cfad1d8ddd
 Section: main
 Description: PascalABC.NET IDE for Termux
 
@@ -31,9 +31,9 @@ Maintainer: papa-mux
 Depends: python
 Filename: pool/main/python-textual_8.2.8_all.deb
 Size: 796
-MD5sum: a9178c8f8d34f2fe408cf16359faca66
-SHA1: d7def9b92384423563900bbbef1ae5f5caa85e28
-SHA256: 3a9b9f405079c07badb71334899cccaf2f5b4d15b4c44fd48872e072b318dfa2
+MD5sum: a02aefb69cede06fb96f386298759a9d
+SHA1: f019bbb92ff417b0e09f9acad83d6a526ff5c681
+SHA256: 3d423cef72c7a4f17e37ae2d8f785e56ac025c2a828576ed6d5995825ce95ca2
 Section: main
 Description: Textual framework for Termux
 
