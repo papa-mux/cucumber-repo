@@ -3,7 +3,7 @@ Version: 1.0.0-beta
 Architecture: aarch64
 Maintainer: Kuzma
 Depends: gtk3, libcairo, libcurl, ffmpeg, glib
-Filename: pw-menu_1.0.0-beta_aarch64.deb
+Filename: pool/main/pw-menu_1.0.0-beta_aarch64.deb
 Size: 65964
 MD5sum: 95d27eb4ceb01fdcfa185cb27f2841e8
 SHA1: 6f7c3715c3c2cc863ab301e7a3459957efb21d9d
