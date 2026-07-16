@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "[*] Generating Packages index for stable/main..."
 
-# Сканируем pool, находясь в корне репозитория
+# Сканируем pool, передавая /dev/null вместо файла оверрайдов
 dpkg-scanpackages pool /dev/null > dists/stable/main/binary-aarch64/Packages
 
 echo "[*] Compressing Packages index to gzip..."

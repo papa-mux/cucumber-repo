@@ -11,3 +11,16 @@ SHA256: 127c7dd57433d28c36ec0b38d158f97b55eb3f6babf68b9462f6a797c8359ba0
 Section: main
 Description: Custom power menu widget with MPV and Playerctl integration.
 
+Package: python-textual
+Version: 8.2.8
+Architecture: archh64
+Maintainer: papa-mux
+Depends: python
+Filename: pool/main/python-textual_8.2.8_all.deb
+Size: 780
+MD5sum: 9e9c2ee7eb3931105e82ce2a1b6963c8
+SHA1: e778b17fcd180e404b39f8efb781a940ae3c8d20
+SHA256: 68082c5f29536688f71b6d52d364d70fce2ae1221e882560a6d5d15037cb25cb
+Section: main
+Description: Textual framework for Termux
+
