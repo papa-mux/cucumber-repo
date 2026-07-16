@@ -4,9 +4,10 @@ Architecture: aarch64
 Maintainer: Kuzma
 Depends: gtk3, libcairo, libcurl, ffmpeg, glib
 Filename: pool/main/pw-menu_1.0.0-beta_aarch64.deb
-Size: 65964
-MD5sum: 95d27eb4ceb01fdcfa185cb27f2841e8
-SHA1: 6f7c3715c3c2cc863ab301e7a3459957efb21d9d
-SHA256: 18c5f9509cced760c8443f3d23535ca07b0a0be05c03b9cece9a1b985062561a
+Size: 65968
+MD5sum: 4a8d52e10cb48933eae93847aab329d2
+SHA1: 191a62705649601039dcba9d106302101ef7f60d
+SHA256: 3988e81e8233578f3bee74b028ec342a7a21510d4f69add1674a03957ad7a34e
+Section: main
 Description: Custom power menu widget with MPV and Playerctl integration.
 
